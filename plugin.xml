@@ -61,7 +61,7 @@ SOFTWARE.
         <!-- Cordova >= 3.0.0 -->
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="OpenWithPlugin">
-				<param name="android-package" value="fi.nyholmsolutions.openwith.OpenWithPlugin"/>
+				<param name="android-package" value="com.hatsa.openwith.OpenWithPlugin"/>
 			</feature>
             <preference name="AndroidLaunchMode" value="singleTask"/>
         </config-file>
