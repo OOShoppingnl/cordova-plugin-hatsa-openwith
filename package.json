@@ -2,18 +2,18 @@
   "# Dependencies required by the hooks": "",
   "# Dependencies required to run tests": "",
   "# White list the files to pack by npm publish": "",
-  "_from": "com.hatsa..openwith",
-  "_id": "com.hatsa..openwith@1.1.2",
+  "_from": "com.hatsa.openwith",
+  "_id": "com.hatsa.openwith@1.1.2",
   "_inBundle": false,
   "_integrity": "sha512-I4dYtmFtofwxl6XNrkYkqv2RYFZRLlKiwVNJhiKPduh8Fp/Unjq4knn/Uo3NZSwKAJckUUx92APP1S1JEiHjsw==",
-  "_location": "/com.hatsa..openwith",
+  "_location": "/com.hatsa.openwith",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "com.hatsa..openwith",
-    "name": "com.hatsa..openwith",
-    "escapedName": "com.hatsa..openwith",
+    "raw": "com.hatsa.openwith",
+    "name": "com.hatsa.openwith",
+    "escapedName": "com.hatsa.openwith",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -22,9 +22,9 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/com.hatsa..openwith/-/com.hatsa..openwith-1.1.2.tgz",
+  "_resolved": "https://registry.npmjs.org/com.hatsa.openwith/-/com.hatsa.openwith-1.1.2.tgz",
   "_shasum": "6e813f63817cfecaedfaa542a379efb60c78cd84",
-  "_spec": "com.hatsa..openwith",
+  "_spec": "com.hatsa.openwith",
   "_where": "/home/erik/hello",
   "author": {
     "name": "Joel Hietanen",
@@ -35,7 +35,7 @@
   },
   "bundleDependencies": false,
   "cordova": {
-    "id": "com.hatsa..openwith",
+    "id": "com.hatsa.openwith",
     "platforms": [
       "android",
       "ios"
@@ -90,7 +90,7 @@
     "android"
   ],
   "license": "MIT",
-  "name": "com.hatsa..openwith",
+  "name": "com.hatsa.openwith",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nyholmsolutions/cordova-plugin-openwith.git"
