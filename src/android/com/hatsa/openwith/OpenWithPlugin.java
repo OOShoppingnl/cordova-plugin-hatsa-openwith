@@ -106,7 +106,6 @@ public class OpenWithPlugin extends CordovaPlugin {
         else if ("exit".equals(action)) {
             return exit(data, callbackContext);
         }
-        }
         log(DEBUG, "execute() did not recognize this action: " + action);
         return false;
     }
